@@ -4,7 +4,7 @@ Creating CoffeeShop DataBase in Postgres then export views &amp; materialized vi
 ## Creating ERD in postgres by pgadmin ERD tool
 - Customer
 - Staff
-- Produts
+- Product
 - Product_type
 - Sales_transaction
 - Sales_detail
